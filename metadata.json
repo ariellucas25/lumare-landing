@@ -1,0 +1,5 @@
+{
+  "name": "Lumare",
+  "description": "A simple public website for the Lumare iOS wellness audio app, featuring a landing page, terms of use, and privacy policy.",
+  "requestFramePermissions": []
+}
